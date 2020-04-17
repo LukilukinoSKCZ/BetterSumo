@@ -1,0 +1,2 @@
+# BetterSumo
+Better sumo plugin
